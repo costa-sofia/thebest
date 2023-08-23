@@ -1,0 +1,8 @@
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\bin\Debug\cal_nota_32.exe.config
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\bin\Debug\cal_nota_32.exe
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\bin\Debug\cal_nota_32.pdb
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\obj\Debug\cal_nota_32.csproj.AssemblyReference.cache
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\obj\Debug\cal_nota_32.csproj.SuggestedBindingRedirects.cache
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\obj\Debug\cal_nota_32.csproj.CoreCompileInputs.cache
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\obj\Debug\cal_nota_32.exe
+D:\Cotemig\arquivos_LogP\Segunda etapa\cal_nota_32\cal_nota_32\obj\Debug\cal_nota_32.pdb
